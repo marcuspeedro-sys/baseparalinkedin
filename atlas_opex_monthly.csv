@@ -1,0 +1,73 @@
+﻿Month,Expense Category,Cost Type,Budget USD,Actual USD
+2025-01,Payroll,Fixed,135000.0,141392.73
+2025-01,Rent & Facilities,Fixed,38000.0,35992.18
+2025-01,Marketing,Variable,45000.0,49362.2
+2025-01,Logistics,Variable,60000.0,67940.09
+2025-01,Technology,Fixed,20000.0,21663.13
+2025-01,General & Administrative,Fixed,32000.0,33549.66
+2025-02,Payroll,Fixed,136620.0,136450.85
+2025-02,Rent & Facilities,Fixed,38456.0,37596.1
+2025-02,Marketing,Variable,45540.0,48982.2
+2025-02,Logistics,Variable,60720.0,66149.48
+2025-02,Technology,Fixed,20240.0,20373.89
+2025-02,General & Administrative,Fixed,32384.0,33787.13
+2025-03,Payroll,Fixed,138240.0,134542.74
+2025-03,Rent & Facilities,Fixed,38912.0,37125.9
+2025-03,Marketing,Variable,46080.0,48068.53
+2025-03,Logistics,Variable,61440.0,66177.67
+2025-03,Technology,Fixed,20480.0,21193.17
+2025-03,General & Administrative,Fixed,32768.0,34228.67
+2025-04,Payroll,Fixed,139860.0,145951.39
+2025-04,Rent & Facilities,Fixed,39368.0,39906.46
+2025-04,Marketing,Variable,46620.0,51209.41
+2025-04,Logistics,Variable,62160.0,66939.3
+2025-04,Technology,Fixed,20720.0,21557.43
+2025-04,General & Administrative,Fixed,33152.0,35764.07
+2025-05,Payroll,Fixed,141480.0,154199.12
+2025-05,Rent & Facilities,Fixed,39824.0,42080.59
+2025-05,Marketing,Variable,47160.0,51264.25
+2025-05,Logistics,Variable,62880.0,69259.37
+2025-05,Technology,Fixed,20960.0,20797.99
+2025-05,General & Administrative,Fixed,33536.0,33946.15
+2025-06,Payroll,Fixed,143100.0,147383.73
+2025-06,Rent & Facilities,Fixed,40280.0,39980.34
+2025-06,Marketing,Variable,47700.0,53515.75
+2025-06,Logistics,Variable,63600.0,67974.9
+2025-06,Technology,Fixed,21200.0,19955.64
+2025-06,General & Administrative,Fixed,33920.0,32014.97
+2025-07,Payroll,Fixed,144720.0,142999.91
+2025-07,Rent & Facilities,Fixed,40736.0,43150.99
+2025-07,Marketing,Variable,48240.0,54896.72
+2025-07,Logistics,Variable,64320.0,66050.19
+2025-07,Technology,Fixed,21440.0,22597.33
+2025-07,General & Administrative,Fixed,34304.0,32363.9
+2025-08,Payroll,Fixed,146340.0,159008.95
+2025-08,Rent & Facilities,Fixed,41192.0,39872.54
+2025-08,Marketing,Variable,48780.0,49976.56
+2025-08,Logistics,Variable,65040.0,65752.49
+2025-08,Technology,Fixed,21680.0,22127.98
+2025-08,General & Administrative,Fixed,34688.0,33139.17
+2025-09,Payroll,Fixed,147960.0,151716.33
+2025-09,Rent & Facilities,Fixed,41648.0,39931.36
+2025-09,Marketing,Variable,49320.0,50239.59
+2025-09,Logistics,Variable,65760.0,74968.4
+2025-09,Technology,Fixed,21920.0,22811.63
+2025-09,General & Administrative,Fixed,35072.0,37333.49
+2025-10,Payroll,Fixed,149580.0,158047.67
+2025-10,Rent & Facilities,Fixed,42104.0,43073.81
+2025-10,Marketing,Variable,49860.0,51889.53
+2025-10,Logistics,Variable,66480.0,75803.3
+2025-10,Technology,Fixed,22160.0,22470.61
+2025-10,General & Administrative,Fixed,35456.0,37594.47
+2025-11,Payroll,Fixed,151200.0,155140.83
+2025-11,Rent & Facilities,Fixed,42560.0,41529.37
+2025-11,Marketing,Variable,59472.0,67049.53
+2025-11,Logistics,Variable,67200.0,70660.82
+2025-11,Technology,Fixed,22400.0,23633.31
+2025-11,General & Administrative,Fixed,35840.0,37616.07
+2025-12,Payroll,Fixed,152820.0,160174.12
+2025-12,Rent & Facilities,Fixed,43016.0,44695.74
+2025-12,Marketing,Variable,60109.2,64273.35
+2025-12,Logistics,Variable,67920.0,68472.73
+2025-12,Technology,Fixed,22640.0,22460.05
+2025-12,General & Administrative,Fixed,36224.0,36752.02

@@ -1,0 +1,21 @@
+﻿SKU,Category,Product,Base Price (USD),Base Cost Ratio,Base Monthly Units
+AT-001,Home Essentials,Home Essentials Product 1,12.0,0.49,1350
+AT-002,Home Essentials,Home Essentials Product 2,15.5,0.502,1470
+AT-003,Home Essentials,Home Essentials Product 3,19.0,0.514,1590
+AT-004,Home Essentials,Home Essentials Product 4,22.5,0.526,1710
+AT-005,Home Essentials,Home Essentials Product 5,26.0,0.538,1830
+AT-006,Personal Care,Personal Care Product 1,20.0,0.525,1260
+AT-007,Personal Care,Personal Care Product 2,23.5,0.537,1380
+AT-008,Personal Care,Personal Care Product 3,27.0,0.549,1500
+AT-009,Personal Care,Personal Care Product 4,30.5,0.561,1620
+AT-010,Personal Care,Personal Care Product 5,34.0,0.573,1740
+AT-011,Office Supplies,Office Supplies Product 1,28.0,0.56,1170
+AT-012,Office Supplies,Office Supplies Product 2,31.5,0.572,1290
+AT-013,Office Supplies,Office Supplies Product 3,35.0,0.584,1410
+AT-014,Office Supplies,Office Supplies Product 4,38.5,0.596,1530
+AT-015,Office Supplies,Office Supplies Product 5,42.0,0.608,1650
+AT-016,Lifestyle Accessories,Lifestyle Accessories Product 1,36.0,0.595,1080
+AT-017,Lifestyle Accessories,Lifestyle Accessories Product 2,39.5,0.607,1200
+AT-018,Lifestyle Accessories,Lifestyle Accessories Product 3,43.0,0.619,1320
+AT-019,Lifestyle Accessories,Lifestyle Accessories Product 4,46.5,0.631,1440
+AT-020,Lifestyle Accessories,Lifestyle Accessories Product 5,50.0,0.643,1560
